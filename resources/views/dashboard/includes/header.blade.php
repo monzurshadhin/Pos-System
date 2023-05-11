@@ -1,6 +1,6 @@
 <nav class="sb-topnav navbar navbar-expand navbar-light bg-light">
     <!-- Navbar Brand-->
-    <a class="navbar-brand ps-3" href="index.html"><img src="https://revinns.com/wp-content/uploads/2023/03/E2-B-1.png" width="180px" alt=""></a>
+    <a class="navbar-brand ps-3" href="index.html">POS System</a>
     <!-- Sidebar Toggle-->
     <button class="btn btn-link btn-sm order-1 order-lg-0 me-4 me-lg-0" id="sidebarToggle" href="#!"><i class="fas fa-bars"></i></button>
     <ul class="navbar-nav ms-auto ms-md-0 me-3 me-lg-4">
